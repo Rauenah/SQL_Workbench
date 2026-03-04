@@ -195,17 +195,9 @@ ORDER BY Total DESC;
 - segmentação de marketing  
 - análise de comportamento  
 
----
 
-# 🎯 **Resumo do Projeto**
 
-Este repositório demonstra:
 
-- domínio de SQL  
-- capacidade de responder perguntas de negócio  
-- preparação de dados para Power BI  
-- análises reais usadas em empresas  
-- organização profissional de consultas  
 
 
 
